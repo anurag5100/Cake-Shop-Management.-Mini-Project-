@@ -6,7 +6,7 @@ This Cake Shop Management System is a simple console-based application that help
 shop's inventory, orders, and payments. It provides functionalities for customers to browse cakes, 
 add them to a cart, generate a bill, and make payments. Additionally, administrators can manage 
 cake products and user accounts.
-To login as a ADMIN you can use AdminID as "**admin**" as password as "**admin**"
+To login as a ADMIN you can use AdminID as "**admin**" and password as "**admin**"
 
 ## Features
 
