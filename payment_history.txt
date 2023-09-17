@@ -1,0 +1,18 @@
+Anu,Cash,0.0
+Anu,Cash,767.0
+abc,Online or Card,767.0
+abc,Cash,3835.0
+abc,Online or Card,590.0
+abc,Online or Card,0.0
+abc,Cash,1475.0
+abc,Cash,3540.0
+abc,Cash,295.0
+abc,Online or Card,590.0
+Anu,Cash,885.0
+abc,Cash,2655.0
+abc,Cash,295.0
+abc,Online or Card,590.0
+abc,Cash,1534.0
+abc,Cash,1534.0
+abc,Online or Card,1947.0
+abc,Online or Card,3835.0
